@@ -86,7 +86,7 @@ The European debt crisis started end 2009 with the inability of some countries i
 
 Deutsche Bank is the biggest bank of Germany and has a yearly revenue of approximately 47.4 billion US dollars and 1.7 trillion in assets. The bank came in trouble since July 2015 when the US government announced that the bank will be fined for her role in the sub-prime mortgage crisis in 2008. These fines put pressure on the financial wealth of the bank, therefore also the ability to pay for outstanding debt. Due to the high amount of fines, investors have pulled out money from Deutsche Bank, so that it lost more than half of its market value in one year. Since banks have interests in other banks, and they lend out money overnight to each other, this creates a certain interconnectedness. The figure below illustrates the interconnectedness of Deutsche Bank with other big banks around the world. Obviously, if Deutsche Bank falls, this will have a huge impact on the performance of many other banks which are both directly and indirectly linked. 
 
-PLAATJE HIER
+![](http://www.abc.net.au/news/image/7893864-1x1-940x940.png)
 
 It’s not only Deutsche Bank that faces problems. Other European banks, mainly Italian, are struggling with outstanding loans that does not get paid back to the bank. This, too, puts financial pressure on the banks. Given the interconnectedness of banks and the problems of some EU governments, this is a big threat.
 
