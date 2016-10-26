@@ -35,6 +35,9 @@ banking crisis. This crisis was again brought about by mismanagement and lack of
 regulating authorities which led to essentially banks betting that housing prices would continue to rise, 
 leading to a “housing bubble”. Banks lent money to people who were not credit worthy, and they 
 eventually could not pay back, which led to the banks losing money on the money they could not recover 
+and “losing their bets” on the housing market. This Sub-Prime Mortgage Crisis, as it became known, 
+affected banks all over the world causing severe banking failures in United Kingdom, Belgium, Iceland, 
+Spain and Ireland to name a few.
 
 Regulations
 ------------
