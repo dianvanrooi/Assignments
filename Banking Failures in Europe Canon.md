@@ -16,22 +16,20 @@ Consequences of Banking Failures
 Banks and financial institutions are important institutions that allocate capital, both from persons who have a supply of capital – usually households or firms -  to firms or households in need of capital. Banks and other financial institutions are also needed in this process, because they have the ability to transform short-term credit to long-term debt for, for instance, mortgages and commercial bonds. 
 If banks fail, however, this process is distorted. The most important consequences are presented here: 
 
-*Bank runs*
+**Bank runs**
 Banks are unable to fulfil their debt obligations towards firms or households with deposits at the bank. This could, in turn, lead to a bank run, when people with deposits at the bank try to redeem their money, fearing that their deposits will be used to pay off other debitors of the bank. While this behaviour is very understandable, it only worsens the problems of the bank and to prevent this from happening, the government usually intervenes and guarantees they payback of your deposits. If a bank is unable to do so, the government ill do this themselves. Such schemes have been installed in all countries of the EU. The government guarantees only deposits to a certain amount (100 000 in the Netherlands). 
 But, even now deposits of non-commercial parties are protected, the government is responsible for paying these guarantees and also bears the costs of it. 
 
-*Credit rollovers*
+**Credit rollovers**
 Firms usually have long-term debt, but occasionally also use short-term debt to finance their capital needs. If banks fail and are no longer able to provide debt to their customers, these firms can come in problems as well. The failing of a bank can for a firm mean that they have to find other forms of credit with more costs attached. 
 
-Systematic risk
+**Systematic risk**
 Banks usually are interdependent and borrow from and lend to other banks and financial institutions. If one bank fails, other banks can also get into trouble to meet their obligations when one or more of their debtors default. 
 
 The entire financial system can also be threatened if the failing bank is so large that other financial institutions are not able to replace the role of the failing bank instantly. 
 
-Credit provision
+**Credit provision**
 If banks fail and the entire financial system is distorted as a result of this, or no other bank is able to fulfil the functions of the failing bank, then the real economy can suffer from the failing bank, as ne companies or households can no longer find credit to finance their projects or fulfil their desires. New, innovative companies can no longer find credit to use their ideas to make the economy more efficient and households cannot find money to finance houses, even though they could have the money to pay off their debts later. Economists call this situation sub-optimal, as these actors are not able to do something they would like to do. 
-
-
 
 History of Banking Failures
 -----------------------------
