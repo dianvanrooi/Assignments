@@ -17,18 +17,22 @@ Banks and financial institutions are important institutions that allocate capita
 If banks fail, however, this process is distorted. The most important consequences are presented here: 
 
 **Bank runs**
+
 Banks are unable to fulfil their debt obligations towards firms or households with deposits at the bank. This could, in turn, lead to a bank run, when people with deposits at the bank try to redeem their money, fearing that their deposits will be used to pay off other debitors of the bank. While this behaviour is very understandable, it only worsens the problems of the bank and to prevent this from happening, the government usually intervenes and guarantees they payback of your deposits. If a bank is unable to do so, the government ill do this themselves. Such schemes have been installed in all countries of the EU. The government guarantees only deposits to a certain amount (100 000 in the Netherlands). 
 But, even now deposits of non-commercial parties are protected, the government is responsible for paying these guarantees and also bears the costs of it. 
 
 **Credit rollovers**
+
 Firms usually have long-term debt, but occasionally also use short-term debt to finance their capital needs. If banks fail and are no longer able to provide debt to their customers, these firms can come in problems as well. The failing of a bank can for a firm mean that they have to find other forms of credit with more costs attached. 
 
 **Systematic risk**
+
 Banks usually are interdependent and borrow from and lend to other banks and financial institutions. If one bank fails, other banks can also get into trouble to meet their obligations when one or more of their debtors default. 
 
 The entire financial system can also be threatened if the failing bank is so large that other financial institutions are not able to replace the role of the failing bank instantly. 
 
 **Credit provision**
+
 If banks fail and the entire financial system is distorted as a result of this, or no other bank is able to fulfil the functions of the failing bank, then the real economy can suffer from the failing bank, as ne companies or households can no longer find credit to finance their projects or fulfil their desires. New, innovative companies can no longer find credit to use their ideas to make the economy more efficient and households cannot find money to finance houses, even though they could have the money to pay off their debts later. Economists call this situation sub-optimal, as these actors are not able to do something they would like to do. 
 
 History of Banking Failures
@@ -65,3 +69,32 @@ Regulations
 
 Possible Threats in the Future
 --------------------------------
+Banks are subject to a lot of factors that influences the bank’s performance. This section explains what the most important threats to the current banking system are. 
+
+**Current European problems**
+
+The European debt crisis started end 2009 with the inability of some countries in Europe to finance their high debt-levels. This meant that large banks couldn’t be bailed out anymore in times of trouble, and that the amount of loans payed back to banks dropped. Although financial stability is restoring in these countries, it is still uncertain what happens to the financial system if an important bank has to be bailed out. The main message is that if banks fail in Europe, this will cause a shock of uncertainty about all banks in Europe.
+
+**Deutsche Bank**
+
+Deutsche Bank is the biggest bank of Germany and has a yearly revenue of approximately 47.4 billion US dollars and 1.7 trillion in assets. The bank came in trouble since July 2015 when the US government announced that the bank will be fined for her role in the sub-prime mortgage crisis in 2008. These fines put pressure on the financial wealth of the bank, therefore also the ability to pay for outstanding debt. Due to the high amount of fines, investors have pulled out money from Deutsche Bank, so that it lost more than half of its market value in one year. Since banks have interests in other banks, and they lend out money overnight to each other, this creates a certain interconnectedness. The figure below illustrates the interconnectedness of Deutsche Bank with other big banks around the world. Obviously, if Deutsche Bank falls, this will have a huge impact on the performance of many other banks which are both directly and indirectly linked. 
+
+PLAATJE HIER
+
+It’s not only Deutsche Bank that faces problems. Other European banks, mainly Italian, are struggling with outstanding loans that does not get paid back to the bank. This, too, puts financial pressure on the banks. Given the interconnectedness of banks and the problems of some EU governments, this is a big threat.
+
+**Divided EU**
+
+With Brexit happening, what happens with the banking sector if more countries would leave the European Union. Recently, some multi-nationals have rumored that they might leave London due to the unfavorable expected business climate in a non-EU Britain. This business environment is unfavorable since markets are less open and the cost of capital transportation is relatively higher. This raises the question what happens if more countries would leave the EU. Italy, for example, is having a referendum in December whether to reform the political structure in the country. The fear is that if the referendum ends up being a “no”, the current Prime Minister Renzi will resign. Since that the Five-star party in Italy is very popular at the moment, they will be likely to be elected in the new government. One of the main points in the party’s agenda is to leave Europe. This will create only more uncertainty about the future of Europe, and the attractiveness to be active in Europe as a financial institution. 
+
+**Interest rate**
+
+Another problem that European banks face nowadays is the low interest rate. Banks are less able to make profits since the investment return has lowered since the European Central Bank (ECB) has lowered the interest rate in 2012. The ECB has lowered the interest rate to increase inflation to the desired level of 2%. Since this it is not likely that this happens any time soon, European banks have to deal with these low rates, which is a tough challenge.
+
+**Financial service development**
+
+With the start of the consumer digitalization in the 1990s, the opportunities arose to optimize processes and communication has increased at an incredible rate. Nowadays, there are many financial technology companies (FinTechs) that substitute services of the banks. According to McKinsey, in the services that banks provide, 20%-60% of the profits and 10%-40% of the revenue will at risk by 2025 due to these FinTechs. For example, instead of expensive fund managers and investment funds, FinTech companies provide comparable services for a fraction of the costs that banks charge. These firms develop programs and use big data to invest consumer money in a similar way that banks would do. Another factor that is hugely affected by the digitalization is the provision of funds from-and-to consumers by companies. These parties no longer need the bank for funds, but can directly find a counterparty to exchange funds with. This process eliminates the need for banks, which is, obviously, a risk for banks. Social media enables fast information exchange, which might both negatively or positively affect bank reputation. Banks now have less time to react to problems due to the increase of communication speed. Obviously, banks still hold a strong position when it comes to expertise in the financial sector and information resources. Although we see that banks hold a strong position in the provision of liquidity and financial services in the economy, the competition in financial services increases rapidly. The future profit and revenue of banks might be at risk due to these FinTechs and digital innovations.
+
+**Cyber criminality**
+
+In line with the opportunities that the digitalization has to offer, this also has a downside. Computer criminals now have an extra dimension to rob money from institutions of individuals that have much funds. Banks encounter cyber criminality daily. In 2015, a group of hackers called ‘Businessclub’ stole approximately 100 million dollar from bank accounts by hacking the servers of banks. The cost of a cyber-attack is not only the money that is lost to hackers, but also retrieving information concerning the breach is costly, the impact on the bank’s brand reputation is costly since consumers lose faith due to social media, and there might be regulatory fines that lowers revenue and profit. Cyber security is getting more and more important.
