@@ -1,29 +1,8 @@
-%!TEX encoding = UTF-8 Unicode
-%!TEX TS-program = xelatex
-%!BIB TS-program = biber
+Convergence in 
 
-% paper for BeLLS
-\documentclass[11pt,twoside]{article}
-\input{settings} % load packages, set parameters, define commands
+Laurie Peeters, Sandra van der Schaaf, Dian van Rooi 
 
-% use the following packages if needed (if not, you can omit loading these)
-\usepackage{synttree} % for drawing syntactic trees
-\branchheight{2.5em} \childsidesep{0.5em} % synttree settings
-\usepackage{avm} % for drawing attribute-value matrices
-%\usepackage{epstopdf} % for eps graphics
-\usepackage{hyperref}
-\usepackage{hyperref,xcolor} %http://ctan.org/pkg/{hyperref,xcolor}
-\usepackage{makeidx}
-\definecolor{winered}{rgb}{0.5,0,0}
-
-\hypersetup{colorlinks=true,
-  linkcolor=blue,
-urlcolor={blue},
-filecolor={blue},
-citecolor={blue},
-allcolors={blue}}
-
-\author{Laurie Peeters, Sandra van der Schaaf, Dian van Rooi January 31st, 2017} % no affiliation
+January 31st, 2017
 \title{Convergence in economic performance between European countries} % do not capitalize every open class word
 \addbibresource{sample.bib} % the bib file
 
