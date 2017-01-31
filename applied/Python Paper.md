@@ -3,7 +3,6 @@ Convergence in economic output between European countries
 Laurie Peeters, Sandra van der Schaaf, Dian van Rooi 
 -----------------------------------------------------
 January 31st, 2017
--------------------
 
 This paper aims to empirically compare convergence of different regions in the European Community between 1980 and 1984 and 1985 and 1989. 
 Our research is loosely based on the paper of \href{http://web.b.ebscohost.com/ehost/pdfviewer/pdfviewer?sid=2b519a94-f685-4d04-8e5f-5fdb94e89ef5\%40sessionmgr101&vid=1&hid=116}{Neven and Gouyette (1995)}. 
@@ -36,6 +35,28 @@ We used data from the dataset 'World Development Indicators' by the \href{https:
 This dataset contains more than thousand annual indicators for economic development for many countries in the world. 
 For this research we used GDP per capita (current US\$).  
 We will compare the northern and southern European countries by means of estimating the coefficient of the correlation between GDP per capita (current US\$) over the period of 1980 - 1984 and the period 1985 - 1989. 
+
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": 204,
+   "metadata": {
+    "collapsed": false
+   },
+   "outputs": [],
+   "source": [
+    "%matplotlib inline\n",
+    "import numpy as np\n",
+    "import pandas as pd\n",
+    "import matplotlib.pyplot as plt\n",
+    "import math\n",
+    "import scipy as scipy\n",
+    "import statsmodels.formula.api as smf\n",
+    "import re\n",
+    "plt.style.use('ggplot')"
+   ]
+  },
 
 1.3 Answer
 -----------
